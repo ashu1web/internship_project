@@ -6,6 +6,7 @@ BACKEND:NODE.JS(EXPRESS)
 DATABASE:MONGODB
 
 2)See the project screenshot in Home.png Login.png Signup.png Profile.png
+  For deployement see screenshot HomeRender.png LoginRender.png SignRender.png ProfileRender.png
 
 3)## Setup Instructions
 
