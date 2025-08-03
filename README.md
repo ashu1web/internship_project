@@ -5,7 +5,9 @@ FRONTEND:REACT
 BACKEND:NODE.JS(EXPRESS)
 DATABASE:MONGODB
 
-2)## Setup Instructions
+2)See the project screenshot in Home.png Login.png Signup.png Profile.png
+
+3)## Setup Instructions
 
 1. **Clone the repository**
    ```bash
